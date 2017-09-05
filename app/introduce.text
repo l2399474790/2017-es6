@@ -1,0 +1,8 @@
+1、创建ejs模板
+    node的express框架使用的就是ejs模板（可以当做html使用）
+    express -e . 使用express框架创建ejs模板。在当前文件夹下执行
+
+
+
+
+2、es6语法
