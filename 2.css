@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border: 0;
+}
+
+.box1 {
+    overflow-y: scroll;
+    width: 100%;
+    background-color: #e6e9f1;
+}
+
+.demo {
+    width: .6rem;
+    height: .6rem;
+    border-radius: 50%;
+    display: none;
+    position: fixed;
+    right: 0.04rem;
+    bottom: 1.4rem;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    border: none;
+    ¡¡-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    ¡¡-webkit-tap-highlight-color: transparent;
+    ¡¡outline: none;
+}
+
+a:focus {
+    outline: none;
+}
+
+a, a:hover, a:active, a:visited, a:link, a:focus {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+    background: none;
+    text-decoration: none;
+}
+
+.headTop {
+    position: relative;
+    height: .88rem;
+    width: 100%;
+    z-index: 99;
+}
+
+.head {
+    height: .88rem;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.head a {
+    position: absolute;
+    top: .24rem;
+    left: .3rem;
+}
+
+.head a img {
+    width: .44rem;
+    height: .44rem;
+
+}
+
+.head h3 {
+
+    width: 100%;
+    height: .88rem;
+    text-align: center;
+    line-height: .88rem;
+    background: #fff;
+    font-size: 0.36rem;
+    color: #333;
+}
+
+.demo img {
+    width: .6rem;
+    height: .6rem;
+    opacity: 0.5;
+}
