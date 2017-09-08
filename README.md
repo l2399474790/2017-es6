@@ -30,3 +30,8 @@ touch gulpfile.babel.js 创建使用es6语法的gulp文件
 
 
 213
+
+0001
+
+var childId = "#" + uleParameter.curImgId + "remove";
+$("#newTabFrame1").contents().find(childId);
