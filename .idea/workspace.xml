@@ -64,17 +64,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="0.5977723">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-=======
-            <state vertical-scroll-proportion="0.8772152">
-=======
-            <state vertical-scroll-proportion="0.8405063">
->>>>>>> dev
-              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
->>>>>>> dev
+            <state vertical-scroll-proportion="0.68101263">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,11 +163,7 @@
       <sortByType />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="Scratches" />
-=======
       <pane id="Scope" />
->>>>>>> dev
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,11 +262,7 @@
           </PATH>
         </subPane>
       </pane>
-<<<<<<< HEAD
-      <pane id="Scope" />
-=======
       <pane id="Scratches" />
->>>>>>> dev
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -744,17 +727,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.5977723">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-=======
-        <state vertical-scroll-proportion="0.8772152">
-=======
-        <state vertical-scroll-proportion="0.8405063">
->>>>>>> dev
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
->>>>>>> dev
+        <state vertical-scroll-proportion="0.68101263">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
