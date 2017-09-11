@@ -38,12 +38,5 @@ $("#newTabFrame1").contents().find(childId);
 
 111
 
-
-123123
-
-333
-
-
-333
 222
 
