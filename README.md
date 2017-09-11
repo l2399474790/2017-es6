@@ -37,4 +37,4 @@ var childId = "#" + uleParameter.curImgId + "remove";
 $("#newTabFrame1").contents().find(childId);
 
 111
-123
+123123
