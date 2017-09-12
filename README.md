@@ -1,28 +1,28 @@
 #cp-lessons
 
-业务逻辑：页面、交互
-自动构建：编译、辅助（自动刷新、文件合并、资源压缩）
-服务接口：数据、接口
+涓氬姟閫昏緫锛氶〉闈€?佷氦浜?
+鑷姩鏋勫缓锛氱紪璇戙?佽緟鍔╋紙鑷姩鍒锋柊銆佹枃浠跺悎骞躲?佽祫婧愬帇缂╋級
+鏈嶅姟鎺ュ彛锛氭暟鎹?佹帴鍙?
 
-app：前端代码
+app锛氬墠绔唬鐮?
     css
     js
-        class：放置类文件
-        index.js：入口文件
+        class锛氭斁缃被鏂囦欢
+        index.js锛氬叆鍙ｆ枃浠?
     views
-        error.ejs(express使用的模板引擎文件)
-        index.ejs(入口文件)
-server：服务器代码（express脚手架）express -e(使用ejs模板引擎) .（在当前文件执行）
-tasks：工具
-    util：放置常见脚本
+        error.ejs(express浣跨敤鐨勬ā鏉垮紩鎿庢枃浠?)
+        index.ejs(鍏ュ彛鏂囦欢)
+server锛氭湇鍔″櫒浠ｇ爜锛坋xpress鑴氭墜鏋讹級express -e(浣跨敤ejs妯℃澘寮曟搸) .锛堝湪褰撳墠鏂囦欢鎵ц锛?
+tasks锛氬伐鍏?
+    util锛氭斁缃父瑙佽剼鏈?
 
 
 
-npm init 创建package.json文件
-touch .babelrc 创建babel编译文件
-touch gulpfile.babel.js 创建使用es6语法的gulp文件
+npm init 鍒涘缓package.json鏂囦欢
+touch .babelrc 鍒涘缓babel缂栬瘧鏂囦欢
+touch gulpfile.babel.js 鍒涘缓浣跨敤es6璇硶鐨刧ulp鏂囦欢
 
-修改
+淇敼
 123
 
 
@@ -38,5 +38,4 @@ $("#newTabFrame1").contents().find(childId);
 
 111
 333
-222
 
